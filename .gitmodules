@@ -1,0 +1,3 @@
+[submodule "Econ-Frontend"]
+	path = Econ-Frontend
+	url = https://github.com/madcamp-wk3/Frontend.git
