@@ -77,6 +77,9 @@
 
 <aside>
 
+## 기술 스택 
+FE : Android Studio <br>
+BE : FAST API )python) <br> 
 ## 기능
 
 오늘의 신문에 대한 챗봇
